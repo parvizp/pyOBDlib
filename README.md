@@ -1,10 +1,10 @@
 pyOBDlib
 ========
 
-A fork of pyOBD: http://www.obdtester.com/pyobd
+A fork of pyOBD (http://www.obdtester.com/pyobd), however only the ELM327 communications were brought over and the wx GUI was removed.
 
 ## Install
-I've only used in on Mac OSX 10.7:
+I've only tested this on Mac OSX 10.7 but it should work on more platforms:
 * Install pyserial 2.6: http://pypi.python.org/pypi/pyserial/
 
 ## Getting Started
